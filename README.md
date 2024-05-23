@@ -1,2 +1,2 @@
 # GameTutorial
-GameTutorial by Brackeys
+GameTutorial
